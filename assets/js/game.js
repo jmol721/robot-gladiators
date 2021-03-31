@@ -69,4 +69,3 @@ for(var i = 0; i < enemyNames.length; i++) {
     enemyHealth = 50;
     fight(pickedEnemyName);
 }
-
